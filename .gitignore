@@ -1,0 +1,11 @@
+*\__pychache__
+*\.ipynb_checkpoints
+*.pylint.d
+*__pycache__
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.aux
+*.chm
+*\env
